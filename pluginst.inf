@@ -1,0 +1,6 @@
+[plugininstall]
+description=xytags - XYplorer Tag Reader
+type=wdx
+file=xytags.wdx
+file64=xytags.wdx64
+defaultdir=xytags
